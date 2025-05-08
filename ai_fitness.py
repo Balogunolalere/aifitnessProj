@@ -672,7 +672,6 @@ with st.sidebar:
         )
         st.markdown(f"**Model:** `{GROQ_MODEL}`")
         # Removed st.warning disclaimer block
-        st.markdown("**Developed by:** [Your Name/Project Name]") # Optional: Add credit
 
 # --- Main Area Modifications ---
 
